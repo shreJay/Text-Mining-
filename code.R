@@ -30,9 +30,9 @@ library(knitr)
 
 
 # Define the path to the text files
-
-
-filepath <- file.path("C:", "Users/vamsh/Desktop/R_Project_1/", "arabian_nights") # Path to the local directory
+# The file.path splits the entire path - the 3 parameters can take C:, Folder path <home/project/data> and folder that contains the data files <arabian_nights> 
+# The result is concatenated of the form C:/home/project/data/arabian_nights
+filepath <- file.path("C:", "Your path here", "arabian_nights") # Path to the local directory
 
 filepath                                                                          # To check the contents of variable 'filepath'
 
