@@ -15,3 +15,4 @@ Some functionalities that have been explored:
 - Topic Modelling
 
 
+The data was taken from the python course for humanities at https://github.com/fbkarsdorp/python-course
