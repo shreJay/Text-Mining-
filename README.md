@@ -16,3 +16,4 @@ Some functionalities that have been explored:
 
 
 The data was taken from the python course for humanities at https://github.com/fbkarsdorp/python-course
+P.S: The topic modeling was done using the LDA approach
